@@ -37,7 +37,6 @@ body {
 
 .logo {
     margin-left: 10px;
-
     font-size: 25px;
     font-weight: bold;
 
@@ -64,6 +63,11 @@ body {
     min-height: 400px;
     background-color: rgb(52, 82, 204);
 
+}
+
+
+.container>div>p {
+    font-size: 15px;
 }
 
 img {
